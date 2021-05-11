@@ -1,4 +1,4 @@
-# littlesorry(Wang Baofeng)'s exp
+# Wang Baofeng's exp
 @littlesorry's personal profile
 
 ## 2020-05-08
